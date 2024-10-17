@@ -1,7 +1,7 @@
 # **My-SQL_Project**
 *This project using MySQL to Data Proceesing and Exploratory Data Analysis a data set about number of laid off employees of major corporations in the world*
 
-<img width="558" alt="heading img layoff" src="https://github.com/user-attachments/assets/d602328c-61ab-4464-a3f3-523b35c8be61">
+<img width="700" alt="heading img layoff" src="https://github.com/user-attachments/assets/d602328c-61ab-4464-a3f3-523b35c8be61">
 
 
 # **SQL statements using in project**
@@ -53,7 +53,7 @@ FROM dup_cte
 WHERE row_num = 1;
 
 ```
-<img width="611" alt="duplicate_table" src="https://github.com/user-attachments/assets/b9139eed-f603-4632-99cb-c6c8c35b9bd9">
+<img width="700" alt="duplicate_table" src="https://github.com/user-attachments/assets/b9139eed-f603-4632-99cb-c6c8c35b9bd9">
 
 ## **Standardize Data**
 
@@ -73,7 +73,7 @@ UPDATE layoffs_cleaned_ver2
 SET industry ='Crypto'
 WHERE industry LIKE 'Crypto%';
 ```
-<img width="566" alt="image" src="https://github.com/user-attachments/assets/02759931-32b1-4bb8-9b58-df3cdd918679">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/02759931-32b1-4bb8-9b58-df3cdd918679">
 
 
 
