@@ -11,7 +11,7 @@
 - Subqueries/CTEs/Temp table
 
 # **Phase 1: Data Proceesing**
-
+## **Remove duplicate**
 ```sql
 WITH dup_cte AS
 (
