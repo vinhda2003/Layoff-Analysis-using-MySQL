@@ -9,5 +9,4 @@
 - Subqueries/CTEs/Temp table
 
 # **Phase 1: Data Proceesing**
-![Data Processing Image](https://github.com/username/repository-name/raw/branch-name/Material%20Markdown/Data-processing%20images.jpg)
-
+![Data Processing Image](https://github.com/vinhda2003/My-SQL_Project-/tree/main/Material%20Markdown/Data-processing images.jpg)
