@@ -12,4 +12,15 @@
 
 # **Phase 1: Data Proceesing**
 
+```sql
+WITH dup_cte AS
+(
+    SELECT *,
+    ROW_NUMBER() OVER(
+    PARTITION BY company, location, industry, total_laid_off, percentage_laid_off, 'date', stage, funds_raised_millions) AS row_num
+    FROM layoffs_cleaned
+)
+SELECT *
+FROM dup_cte
+WHERE row_num > 1;
 
