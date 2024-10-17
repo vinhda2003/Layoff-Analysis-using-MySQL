@@ -158,7 +158,7 @@ ALTER TABLE layoffs_cleaned_ver2
 DROP row_num;
 ```
 
-# **Phase 2: Exploratory Data Analysis (EDA) **
+# **Phase 2: Exploratory Data Analysis (EDA)**
 
 ## **Group by categorical variables**
 
