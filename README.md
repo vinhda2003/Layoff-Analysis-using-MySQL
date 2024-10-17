@@ -7,3 +7,6 @@
 - Create/Alter/Update/Delete table
 - Join/Window functions
 - Subqueries/CTEs/Temp table
+
+# **Phase 1: Data Proceesing**
+![Coca-Cola Logo](https://example.com/coca-cola-logo.png)
