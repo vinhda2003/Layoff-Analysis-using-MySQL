@@ -1,4 +1,4 @@
-# **My-SQL_Project**
+# **Layoff Analyst Project using MySQL**
 *This project using MySQL to Data Proceesing and Exploratory Data Analysis a data set about number of laid off employees of major corporations in the world*
 
 <img width="700" alt="heading img layoff" src="https://github.com/user-attachments/assets/d602328c-61ab-4464-a3f3-523b35c8be61">
@@ -253,3 +253,7 @@ WHERE ranking <=5
 ;
 ```
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/70606910-a18f-4588-964f-5bb8ea30e31f">
+
+# **Reference**
+[Alex The Analyst](https://www.youtube.com/watch?v=4UltKCnnnTA&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=19)
+
