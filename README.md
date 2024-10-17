@@ -9,4 +9,5 @@
 - Subqueries/CTEs/Temp table
 
 # **Phase 1: Data Proceesing**
-![Data Processing Image](https://github.com/vinhda2003/My-SQL_Project-/tree/main/Material%20Markdown/Data-processing images.jpg)
+![Data-processing images](https://github.com/user-attachments/assets/ed8e3a30-ad4c-42bb-a635-c85a53529bbb)
+
