@@ -55,5 +55,26 @@ WHERE row_num = 1;
 ```
 <img width="611" alt="duplicate_table" src="https://github.com/user-attachments/assets/b9139eed-f603-4632-99cb-c6c8c35b9bd9">
 
+## **Standardize Data**
+
+```
+--industry column
+
+SELECT DISTINCT industry
+FROM layoffs_cleaned_ver2
+ORDER BY 1;
+
+SELECT DISTINCT industry
+FROM layoffs_cleaned_ver2
+WHERE industry LIKE 'Crypto%'
+ORDER BY 1;
+
+UPDATE layoffs_cleaned_ver2
+SET industry ='Crypto'
+WHERE industry LIKE 'Crypto%';
+```
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/02759931-32b1-4bb8-9b58-df3cdd918679">
+
+
 
 
