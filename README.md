@@ -23,7 +23,7 @@ WITH dup_cte AS
 SELECT *
 FROM dup_cte
 WHERE row_num > 1;
-
+```
 <img width="611" alt="duplicate_table" src="https://github.com/user-attachments/assets/b9139eed-f603-4632-99cb-c6c8c35b9bd9">
 
 
