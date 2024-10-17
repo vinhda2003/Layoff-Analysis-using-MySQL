@@ -1,5 +1,5 @@
 # **My-SQL_Project**
-
+<img width="558" alt="heading img layoff" src="https://github.com/user-attachments/assets/d602328c-61ab-4464-a3f3-523b35c8be61">
 *This project using MySQL to Data Proceesing and Exploratory Data Analysis a data set about number of laid off employees of major corporations in the world*
 
 # **SQL statements using in project**
@@ -9,5 +9,5 @@
 - Subqueries/CTEs/Temp table
 
 # **Phase 1: Data Proceesing**
-![Data-processing images](https://github.com/user-attachments/assets/ed8e3a30-ad4c-42bb-a635-c85a53529bbb)
+
 
