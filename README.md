@@ -24,3 +24,11 @@ SELECT *
 FROM dup_cte
 WHERE row_num > 1;
 
+| company          | location    | industry       | total_laid_off | percentage_laid_off | date       | stage     | country      | funds_raised_millions |
+|------------------|-------------|----------------|----------------|---------------------|------------|-----------|--------------|-----------------------|
+| E Inc.           | Toronto     | Transportation |                |                     | 12/16/2022 | Post-IPO  | Canada       |                       |
+| E Inc.           | Toronto     | Transportation |                |                     | 12/16/2022 | Post-IPO  | Canada       |                       |
+| Included Health  | SF Bay Area | Healthcare     |                | 0.06                | 7/25/2022  | Series E  | United States| 272                   |
+| Included Health  | SF Bay Area | Healthcare     |                | 0.06                | 7/25/2022  | Series E  | United States| 272                   |
+
+
